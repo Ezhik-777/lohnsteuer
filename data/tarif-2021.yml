@@ -1,0 +1,17 @@
+sozialversicherung:
+  kv: 7.495 # ges. Krankenversicherung
+  rv: 9.3 # Rentenversicherung
+  pv: 1.775 # Pflegeversicherung
+  av: 1.2 # Arbeislosengeldversicherung
+bemessungsgrenze:
+  rv: 6700
+  av: 6700
+  pv: 4837.5
+  kv: 4837.5
+
+steuer:
+  solidaritaetszuschlag: 0
+
+freibetrag:
+  werbungskostenpauschale: 1000
+  sonderausgabenpauschale: 36
